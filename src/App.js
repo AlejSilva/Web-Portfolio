@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello Word SUPERTEST
+          PLEASE WORK IM GETTING TIRED OF THIS
         </p>
         
       </header>
