@@ -23,8 +23,9 @@ export const Projects = () => {
     },
     {
       title: "Interior Design App",
-      description: "For this project, I used React and Javascript to create and design an interior design app which allows you to take different objects commonly found in a house to visualize the layout of your ideal room",
-      imageUrl: interiorDesignImg
+      description: "For my first React project, I worked with another developer, using React and Javascript to create and design an interior design app which allows you to take different objects commonly found in a house to visualize the layout of your ideal room. (Co-Developer Name: Ryan Gilmartin)",
+      imageUrl: interiorDesignImg,
+      link: "https://rgilmartin.github.io/InteriorDesignApp/"
     },
     {
       title: "My Portfolio",
@@ -49,7 +50,7 @@ export const Projects = () => {
       title: "User Authentication App",
       description: "I've created a User Authentication Project that ensures secure access control for applications. This project showcases my proficiency in web security and backend development, implementing robust authentication mechanisms and data protection techniques. It serves as a fundamental tool for building secure web apps, prioritizing user privacy and data integrity. With this project, I've established a solid foundation for user authentication, enhancing the trustworthiness of digital experiences",
       imageUrl: userAuthImg,
-      link: "https://alejsilva.github.io/HTML-SCSS-Landing-Page/"
+      link: "https://alejsilva.github.io/bootstrap-auth/"
     }
   ];
   const fullStackProj = [
